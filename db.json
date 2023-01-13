@@ -33,40 +33,5 @@
     "lastName": "Christiansen",
     "email": "Josephine.Christiansen@dummyapis.com",
     "contactNumber": "4336896099"
-  },
-  {
-    "id": 1006,
-    "firstName": "Mertie",
-    "lastName": "McCullough",
-    "email": "Mertie.McCullough@dummyapis.com",
-    "contactNumber": "4418391308"
-  },
-  {
-    "id": 1007,
-    "firstName": "Isai",
-    "lastName": "Keebler",
-    "email": "Isai.Keebler@dummyapis.com",
-    "contactNumber": "4309494808"
-  },
-  {
-    "id": 1008,
-    "firstName": "Florence",
-    "lastName": "Harber",
-    "email": "Florence.Harber@dummyapis.com",
-    "contactNumber": "4067397120"
-  },
-  {
-    "id": 1009,
-    "firstName": "Sidney",
-    "lastName": "Boyer",
-    "email": "Sidney.Boyer@dummyapis.com",
-    "contactNumber": "4766395367"
-  },
-  {
-    "id": 1010,
-    "firstName": "Heath",
-    "lastName": "Kulas",
-    "email": "Heath.Kulas@dummyapis.com",
-    "contactNumber": "4135393473"
   }
 ]
