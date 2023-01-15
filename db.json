@@ -7,7 +7,7 @@
       "email": "Hugh.Erdman@dummyapis.com",
       "contactNumber": "4950590134",
       "salary":10,
-      "dob":"Tue Aug 23 2022",
+      "dob":"Sun Jan 15 2023",
       "country":"Egypt"
       
     },
@@ -18,7 +18,7 @@
       "email": "Jessie.Rath@dummyapis.com",
       "contactNumber": "4953697379",
       "salary":20,
-      "dob":"Mon Sep 20 2022",
+      "dob":"Mon Jan 16 2023",
       "country":"England"
     },
     {
@@ -28,7 +28,7 @@
       "email": "Precious.Mosciski@dummyapis.com",
       "contactNumber": "4995797090",
       "salary":30,
-      "dob":"Thu May 10 2022",
+      "dob":"Thu Jan 17 2023",
       "country":"France"
     },
     {
@@ -38,7 +38,7 @@
       "email": "Alejandrin.McLaughlin@dummyapis.com",
       "contactNumber": "4140999853",
       "salary":40,
-      "dob":"Sat Jan 1 2022",
+      "dob":"Wed Jan 18 2023",
       "country":"Egypt"   },
     {
       "id": 1005,
@@ -47,7 +47,7 @@
       "email": "Josephine.Christiansen@dummyapis.com",
       "contactNumber": "4336896099",
       "salary":50,
-      "dob":"Sun  June 8 2020",
+      "dob":"Thr Jan 19 2023",
      "country":"Spain"   }
   ]
 }
