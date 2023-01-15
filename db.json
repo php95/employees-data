@@ -8,7 +8,10 @@
       "contactNumber": "4950590134",
       "salary":10,
       "dob":"Sun Jan 15 2023",
-      "country":"Egypt"
+      "country":{
+        "code": "ALB",
+        "name": "Albania"
+      }
       
     },
     {
@@ -19,7 +22,10 @@
       "contactNumber": "4953697379",
       "salary":20,
       "dob":"Mon Jan 16 2023",
-      "country":"England"
+      "country":{
+        "code": "DZA",
+      "name": "Algeria"
+      }
     },
     {
       "id": 1003,
@@ -29,7 +35,10 @@
       "contactNumber": "4995797090",
       "salary":30,
       "dob":"Thu Jan 17 2023",
-      "country":"France"
+      "country":{
+        "code": "BHS",
+      "name": "Bahamas"
+      }
     },
     {
       "id": 1004,
@@ -39,7 +48,10 @@
       "contactNumber": "4140999853",
       "salary":40,
       "dob":"Wed Jan 18 2023",
-      "country":"Egypt"   },
+      "country":{
+        "code": "CRI",
+      "name": "Costa Rica"
+      }   },
     {
       "id": 1005,
       "firstName": "Josephine",
@@ -48,6 +60,9 @@
       "contactNumber": "4336896099",
       "salary":50,
       "dob":"Thurs Jan 19 2023",
-     "country":"Spain"   }
+     "country":{
+      "code": "EGY",
+      "name": "Egypt"
+     }   }
   ]
 }
